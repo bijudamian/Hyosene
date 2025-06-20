@@ -16,7 +16,7 @@ export default function ApplyNow() {
           <Card className="max-w-2xl mx-auto">
             <CardHeader>
               <CardTitle>Apply for a Position</CardTitle>
-              <CardDescription>Fill out the form below to apply for a position at Hyosene Battery.</CardDescription>
+              <CardDescription>Fill out the form below to apply for a position at HyperVolts Battery.</CardDescription>
             </CardHeader>
             <CardContent>
               <form className="space-y-6">
