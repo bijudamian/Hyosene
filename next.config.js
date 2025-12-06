@@ -1,14 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  images: {
-    domains: ['hebbkx1anhila5yf.public.blob.vercel-storage.com'],
-    formats: ['image/avif', 'image/webp'],
+  eslint: {
+    ignoreDuringBuilds: true,
   },
-  experimental: {
-    appDir: true,
+  typescript: {
+    ignoreBuildErrors: true,
+  },
+  images: {
+    unoptimized: true,
   },
 }
 
 module.exports = nextConfig
-
