@@ -8,3 +8,4 @@ Running notes on ongoing development work.
 - cleaned up unused imports and dead code
 ### 2026-05-08
 - added dark mode support for new components
+- improved global state management logic
