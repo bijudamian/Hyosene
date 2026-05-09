@@ -9,3 +9,5 @@ Running notes on ongoing development work.
 ### 2026-05-08
 - added dark mode support for new components
 - improved global state management logic
+### 2026-05-09
+- reviewed and strengthened security patterns
