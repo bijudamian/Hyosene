@@ -11,3 +11,5 @@ Running notes on ongoing development work.
 - improved global state management logic
 ### 2026-05-09
 - reviewed and strengthened security patterns
+### 2026-05-11
+- added input validation and sanitization
