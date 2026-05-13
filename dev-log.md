@@ -13,3 +13,5 @@ Running notes on ongoing development work.
 - reviewed and strengthened security patterns
 ### 2026-05-11
 - added input validation and sanitization
+### 2026-05-13
+- updated API response handling and error messages
