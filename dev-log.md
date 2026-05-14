@@ -15,3 +15,5 @@ Running notes on ongoing development work.
 - added input validation and sanitization
 ### 2026-05-13
 - updated API response handling and error messages
+### 2026-05-14
+- added input validation and sanitization
