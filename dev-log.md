@@ -19,3 +19,4 @@ Running notes on ongoing development work.
 - added input validation and sanitization
 ### 2026-05-15
 - added loading state and skeleton screens
+- improved error handling in async functions
