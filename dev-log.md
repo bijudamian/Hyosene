@@ -17,3 +17,5 @@ Running notes on ongoing development work.
 - updated API response handling and error messages
 ### 2026-05-14
 - added input validation and sanitization
+### 2026-05-15
+- added loading state and skeleton screens
