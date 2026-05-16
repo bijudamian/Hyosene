@@ -22,3 +22,4 @@ Running notes on ongoing development work.
 - improved error handling in async functions
 ### 2026-05-16
 - fixed console warnings and deprecated API calls
+- updated API endpoints to handle edge cases
