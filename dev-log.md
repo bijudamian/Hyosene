@@ -20,3 +20,5 @@ Running notes on ongoing development work.
 ### 2026-05-15
 - added loading state and skeleton screens
 - improved error handling in async functions
+### 2026-05-16
+- fixed console warnings and deprecated API calls
