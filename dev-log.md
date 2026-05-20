@@ -25,3 +25,5 @@ Running notes on ongoing development work.
 - updated API endpoints to handle edge cases
 ### 2026-05-17
 - improved form validation and user feedback
+### 2026-05-20
+- fixed minor UI inconsistencies across breakpoints
