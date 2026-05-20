@@ -27,3 +27,4 @@ Running notes on ongoing development work.
 - improved form validation and user feedback
 ### 2026-05-20
 - fixed minor UI inconsistencies across breakpoints
+- fixed console warnings and deprecated API calls
